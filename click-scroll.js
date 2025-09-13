@@ -27,6 +27,7 @@ $.each(sectionArray, function(index, value){
             'scrollTop':offsetClick
         }, 300)
     });
+#اسکرول
     
 });
 
